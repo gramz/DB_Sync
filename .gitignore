@@ -1,0 +1,16 @@
+logs/*
+!logs/.gitkeep
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv
+env/
+venv/
+ENV/
+dist/
+build/
+*.egg-info/
+.idea/
+.vscode/
+*.swp
